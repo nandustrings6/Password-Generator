@@ -40,10 +40,12 @@ The following image shows the web application's appearance and functionality:
 # Submission 
 
 * The URL of the deployed application.
-https://nandustrings6.github.io/Password-Generator/
+<<TBD>
 
 * The URL of the GitHub repository, with a unique name and a readme describing the project.
-https://github.com/nandustrings6/Password-Generator.git
+<<tbd>
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+**Updated new repo
