@@ -29,6 +29,12 @@ The following image shows the web application's appearance and functionality:
 ![Password Generator Application.](./Assets/Mockimages/Page3.png)
 ![Password Generator Application.](./Assets/Mockimages/page4.png)
 ![Password Generator Application.](./Assets/Mockimages/Page5.png)
+![Password Generator Application.](./Assets/Mockimages/page6.png)
+
+* If user does not choose any criteria or input an alphabet instead of a number the following error prompts are provided
+![Password Generator Application.](./Assets/Mockimages/page7.png)
+![Password Generator Application.](./Assets/Mockimages/page8.png)
+
 
 
 # Submission 
