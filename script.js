@@ -28,7 +28,7 @@ function generatePassword() {
   var numeralsCriteria ="0123456789";
   var multiSelect =[];
 
-  if (keyLength <= 8 || keyLength > 128) {
+  if (keyLength <= 8 || keyLength >= 128) {
     alert("Your password character length does not match the required criteria, please try again")
     var keyLength = prompt("Password must be between 8 to 128 character only");
   };

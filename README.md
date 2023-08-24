@@ -11,11 +11,11 @@ The website was developed using basic HTML, CSS and JavaScript coding.
 # User story
 
 * User clicks on "generate" button which will, prompt user with the following option; 
-    a. Choose the lenght of the password within a pre-set criteria of between 8 to 128 characters length 
-    b. Choose upper case in password
-    c. Choose lower case in password
-    d. Choose special charaters in password
-    e. Choose numerals in password 
+    - Choose the lenght of the password within a pre-set criteria of between 8 to 128 characters length 
+    - Choose upper case in password
+    - Choose lower case in password
+    - Choose special charaters in password
+    - Choose numerals in password 
 * If user entered password length does not meet the required criteria the user is prompted to enter the correct length criteria once again. 
 * At any point user can choose to abandon the request by clicking cancel. 
 * Once all the criteria have been choose a random password is displayed for user 
@@ -24,15 +24,20 @@ The website was developed using basic HTML, CSS and JavaScript coding.
 
 The following image shows the web application's appearance and functionality:
 
-![Password Generator Application.](./Assets/03-javascript-homework-demo.png)
+![Password Generator Application.](./Assets/Mockimages/page1.png)
+![Password Generator Application.](./Assets/Mockimages/Page2.png)
+![Password Generator Application.](./Assets/Mockimages/Page3.png)
+![Password Generator Application.](./Assets/Mockimages/page4.png)
+![Password Generator Application.](./Assets/Mockimages/Page5.png)
+
 
 # Submission 
 
 * The URL of the deployed application.
-<<TBD>>
+https://nandustrings6.github.io/Password-Generator/
 
 * The URL of the GitHub repository, with a unique name and a readme describing the project.
-<<TBD>>
+https://github.com/nandustrings6/Password-Generator.git
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
